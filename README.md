@@ -1,2 +1,2 @@
 # hello-universe
-Just another Gooblebox inside another Miniverse
+Just another Gooblebox
