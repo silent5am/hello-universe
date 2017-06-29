@@ -1,2 +1,2 @@
 # hello-universe
-Just another Gooblebox
+Just another Gooblebox without cheese.
